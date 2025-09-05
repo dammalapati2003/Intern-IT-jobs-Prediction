@@ -1,0 +1,201 @@
+user_id,age,education_level,background,programming_languages,tools_known,interests,soft_skills,study_hours_per_day,preferred_study_time,learning_style,preferred_domain,dream_job_role,recommended_job_role
+1,30,PhD,IT,JavaScript,TensorFlow,Web Development,Leadership,8,Morning,Visual,Startup,Software Developer,Software Developer
+2,32,M.Tech,Other,JavaScript,None,Web Development,Problem Solving,1,Morning,Reading,Startup,Software Developer,Software Developer
+3,21,PhD,CS,Python,Excel,Data Analysis,Problem Solving,5,Morning,Visual,IT,Data Analyst,Data Analyst
+4,37,B.Tech,Mechanical,Python,None,Data Analysis,Time Management,9,Morning,Reading,Startup,Software Developer,DevOps Engineer
+5,19,High School,Commerce,Python,TensorFlow,Web Development,Teamwork,1,Night,Hands-on,Govt Job,Software Developer,Software Developer
+6,38,High School,CS,Python,Excel,Cybersecurity,Communication,12,Night,Mixed,Startup,DevOps Engineer,Cybersecurity Specialist
+7,34,High School,ECE,Java,TensorFlow,AI,Teamwork,4,Morning,Visual,Govt Job,Cybersecurity Specialist,AI/ML Engineer
+8,33,M.Tech,Other,Python,Excel,Web Development,Communication,3,Anytime,Hands-on,IT,Product Manager,Software Developer
+9,24,Diploma,IT,JavaScript,Excel,Cybersecurity,Communication,2,Night,Reading,Research,Product Manager,Cybersecurity Specialist
+10,22,Diploma,Other,JavaScript,Power BI,Cybersecurity,Leadership,2,Night,Mixed,IT,AI/ML Engineer,Cybersecurity Specialist
+11,28,B.Tech,CS,Python,Power BI,Data Analysis,Problem Solving,9,Morning,Reading,Govt Job,Software Developer,Data Analyst
+12,33,Diploma,Commerce,C++,Tableau,Mobile,Problem Solving,2,Night,Hands-on,IT,Product Manager,AI/ML Engineer
+13,31,B.Tech,Commerce,Python,Tableau,Cybersecurity,Problem Solving,12,Night,Mixed,Startup,Product Manager,Cybersecurity Specialist
+14,38,Other,ECE,C++,Tableau,Web Development,Communication,4,Anytime,Visual,Research,Software Developer,Software Developer
+15,26,High School,Mechanical,JavaScript,PyTorch,AI,Leadership,11,Night,Hands-on,IT,Product Manager,Software Developer
+16,38,Other,IT,C++,PyTorch,Data Analysis,Time Management,3,Morning,Mixed,Govt Job,Data Analyst,Data Analyst
+17,19,Other,ECE,Java,None,Mobile,Problem Solving,6,Night,Hands-on,IT,Product Manager,AI/ML Engineer
+18,35,High School,IT,Java,Excel,Data Analysis,Communication,8,Night,Visual,Research,DevOps Engineer,Data Analyst
+19,24,PhD,ECE,Java,Excel,Data Analysis,Communication,2,Night,Reading,Startup,DevOps Engineer,Data Analyst
+20,20,M.Tech,Commerce,Python,None,Mobile,Leadership,4,Anytime,Mixed,Startup,DevOps Engineer,Software Developer
+21,25,M.Tech,Mechanical,None,PyTorch,Web Development,Problem Solving,12,Morning,Hands-on,Startup,Product Manager,Software Developer
+22,35,Diploma,Mechanical,C++,None,Cybersecurity,Time Management,6,Night,Mixed,IT,Software Developer,Cybersecurity Specialist
+23,29,PhD,Other,JavaScript,TensorFlow,Mobile,Teamwork,5,Anytime,Mixed,Research,Product Manager,Software Developer
+24,29,High School,CS,Python,PyTorch,Web Development,Leadership,10,Night,Mixed,IT,AI/ML Engineer,Software Developer
+25,25,High School,Commerce,Python,Power BI,AI,Problem Solving,1,Anytime,Mixed,Startup,Software Developer,Software Developer
+26,19,Diploma,ECE,None,TensorFlow,Mobile,Communication,4,Morning,Reading,Startup,Cybersecurity Specialist,Data Analyst
+27,20,PhD,CS,C++,Power BI,Mobile,Problem Solving,0,Morning,Visual,Startup,Software Developer,AI/ML Engineer
+28,24,B.Tech,Other,None,PyTorch,Mobile,Leadership,6,Anytime,Hands-on,IT,Software Developer,Cybersecurity Specialist
+29,23,Other,Mechanical,None,TensorFlow,DevOps,Teamwork,12,Night,Reading,Research,Software Developer,DevOps Engineer
+30,21,High School,Commerce,Python,Tableau,Mobile,Time Management,1,Morning,Visual,Startup,AI/ML Engineer,Software Developer
+31,36,B.Tech,IT,Python,Tableau,Cybersecurity,Leadership,7,Morning,Mixed,Startup,AI/ML Engineer,Cybersecurity Specialist
+32,31,Diploma,IT,Java,None,DevOps,Leadership,12,Night,Reading,Startup,Data Analyst,DevOps Engineer
+33,23,Other,IT,None,Power BI,DevOps,Communication,0,Anytime,Mixed,IT,Product Manager,DevOps Engineer
+34,19,Other,IT,JavaScript,Tableau,Web Development,Problem Solving,10,Morning,Mixed,Govt Job,Software Developer,Software Developer
+35,37,High School,ECE,Java,Excel,Data Analysis,Leadership,3,Anytime,Mixed,IT,Software Developer,Data Analyst
+36,20,Other,CS,Java,Excel,Cybersecurity,Leadership,11,Night,Hands-on,Research,DevOps Engineer,Cybersecurity Specialist
+37,29,Other,CS,JavaScript,Tableau,DevOps,Teamwork,8,Anytime,Reading,IT,Software Developer,Software Developer
+38,26,PhD,CS,Java,Power BI,Cybersecurity,Teamwork,5,Night,Reading,Research,Data Analyst,Cybersecurity Specialist
+39,26,Diploma,ECE,C++,Tableau,Web Development,Problem Solving,5,Morning,Visual,Govt Job,Cybersecurity Specialist,Software Developer
+40,33,PhD,Mechanical,None,None,DevOps,Communication,6,Anytime,Reading,Research,DevOps Engineer,DevOps Engineer
+41,35,PhD,Mechanical,Java,TensorFlow,AI,Time Management,9,Anytime,Reading,Research,Data Analyst,Data Analyst
+42,24,Diploma,IT,Python,Power BI,Web Development,Time Management,5,Night,Mixed,Govt Job,DevOps Engineer,Software Developer
+43,38,Diploma,Other,Python,PyTorch,Mobile,Communication,12,Anytime,Reading,Research,Software Developer,Cybersecurity Specialist
+44,30,Diploma,ECE,Java,Tableau,AI,Leadership,4,Anytime,Hands-on,IT,AI/ML Engineer,DevOps Engineer
+45,37,Other,Commerce,Java,None,AI,Leadership,8,Night,Visual,Research,Cybersecurity Specialist,Software Developer
+46,35,High School,Other,Python,Power BI,DevOps,Leadership,6,Anytime,Visual,Govt Job,Product Manager,DevOps Engineer
+47,39,Diploma,IT,JavaScript,PyTorch,Web Development,Communication,0,Anytime,Reading,Govt Job,DevOps Engineer,Software Developer
+48,35,Other,Other,JavaScript,None,AI,Problem Solving,0,Anytime,Mixed,Research,Data Analyst,Software Developer
+49,33,High School,ECE,JavaScript,Power BI,DevOps,Problem Solving,7,Morning,Visual,Startup,AI/ML Engineer,Software Developer
+50,30,B.Tech,CS,Java,Power BI,Cybersecurity,Leadership,1,Night,Reading,Research,Software Developer,Cybersecurity Specialist
+51,26,PhD,Mechanical,Java,Excel,Web Development,Time Management,6,Morning,Reading,Startup,Product Manager,Software Developer
+52,24,B.Tech,Commerce,Python,TensorFlow,AI,Problem Solving,11,Anytime,Visual,Startup,Product Manager,AI/ML Engineer
+53,20,M.Tech,Other,None,Excel,DevOps,Leadership,1,Anytime,Hands-on,Govt Job,Data Analyst,DevOps Engineer
+54,33,B.Tech,ECE,Java,Tableau,Mobile,Time Management,3,Morning,Hands-on,Govt Job,AI/ML Engineer,DevOps Engineer
+55,25,M.Tech,ECE,Python,PyTorch,Data Analysis,Communication,4,Night,Reading,IT,DevOps Engineer,Software Developer
+56,40,B.Tech,IT,Python,PyTorch,DevOps,Time Management,11,Morning,Hands-on,Research,Product Manager,DevOps Engineer
+57,26,PhD,Mechanical,Python,Power BI,Data Analysis,Communication,5,Anytime,Mixed,Govt Job,Product Manager,Data Analyst
+58,38,Other,Commerce,C++,PyTorch,Web Development,Leadership,0,Anytime,Reading,IT,Cybersecurity Specialist,Software Developer
+59,21,B.Tech,CS,JavaScript,Power BI,AI,Problem Solving,0,Night,Mixed,IT,Cybersecurity Specialist,Software Developer
+60,29,M.Tech,CS,C++,Tableau,Web Development,Leadership,9,Anytime,Hands-on,Research,AI/ML Engineer,Software Developer
+61,27,Other,Commerce,C++,Tableau,Cybersecurity,Time Management,10,Morning,Hands-on,Research,DevOps Engineer,Cybersecurity Specialist
+62,37,Other,Other,JavaScript,PyTorch,Data Analysis,Leadership,3,Anytime,Visual,Startup,Data Analyst,Software Developer
+63,35,PhD,Other,None,TensorFlow,DevOps,Time Management,2,Morning,Reading,Research,DevOps Engineer,DevOps Engineer
+64,18,M.Tech,Commerce,None,Tableau,Mobile,Communication,3,Morning,Visual,Research,AI/ML Engineer,DevOps Engineer
+65,21,High School,ECE,Python,Excel,DevOps,Problem Solving,7,Night,Mixed,Research,Product Manager,DevOps Engineer
+66,22,High School,CS,JavaScript,None,Data Analysis,Leadership,2,Anytime,Hands-on,Govt Job,Cybersecurity Specialist,Software Developer
+67,29,PhD,Other,JavaScript,PyTorch,AI,Teamwork,12,Morning,Hands-on,Govt Job,Data Analyst,Software Developer
+68,35,B.Tech,Mechanical,None,PyTorch,AI,Leadership,8,Night,Hands-on,Startup,AI/ML Engineer,Cybersecurity Specialist
+69,38,B.Tech,IT,C++,Tableau,Data Analysis,Teamwork,2,Morning,Hands-on,IT,Cybersecurity Specialist,Data Analyst
+70,40,Other,Mechanical,Python,Power BI,Web Development,Communication,11,Anytime,Visual,IT,Product Manager,Software Developer
+71,25,B.Tech,IT,JavaScript,TensorFlow,DevOps,Time Management,11,Anytime,Mixed,Startup,Data Analyst,Software Developer
+72,20,PhD,IT,Java,None,AI,Leadership,12,Morning,Mixed,IT,Cybersecurity Specialist,AI/ML Engineer
+73,26,PhD,CS,C++,TensorFlow,Cybersecurity,Problem Solving,7,Anytime,Hands-on,Startup,Software Developer,Cybersecurity Specialist
+74,38,Diploma,Mechanical,None,PyTorch,AI,Communication,10,Anytime,Hands-on,Research,DevOps Engineer,DevOps Engineer
+75,18,B.Tech,IT,JavaScript,Tableau,DevOps,Communication,0,Night,Hands-on,Research,AI/ML Engineer,Software Developer
+76,26,B.Tech,Other,JavaScript,None,AI,Leadership,0,Morning,Mixed,IT,AI/ML Engineer,Software Developer
+77,23,Other,Mechanical,Java,PyTorch,DevOps,Teamwork,9,Morning,Visual,Govt Job,DevOps Engineer,DevOps Engineer
+78,35,PhD,ECE,Java,TensorFlow,Data Analysis,Teamwork,7,Night,Hands-on,IT,DevOps Engineer,Cybersecurity Specialist
+79,25,Diploma,Other,Python,TensorFlow,Mobile,Teamwork,7,Anytime,Visual,Startup,Software Developer,DevOps Engineer
+80,38,PhD,IT,JavaScript,Excel,Mobile,Teamwork,9,Anytime,Hands-on,Research,Software Developer,Software Developer
+81,33,PhD,ECE,JavaScript,TensorFlow,Mobile,Leadership,0,Anytime,Hands-on,IT,Data Analyst,Software Developer
+82,24,M.Tech,Mechanical,None,Tableau,Data Analysis,Time Management,0,Anytime,Reading,IT,Software Developer,Data Analyst
+83,24,Diploma,CS,Java,TensorFlow,Mobile,Communication,10,Anytime,Visual,IT,Data Analyst,Cybersecurity Specialist
+84,38,B.Tech,Other,C++,TensorFlow,DevOps,Problem Solving,12,Morning,Mixed,Startup,Data Analyst,DevOps Engineer
+85,28,Other,Mechanical,Java,Tableau,Mobile,Leadership,3,Anytime,Reading,IT,Cybersecurity Specialist,Software Developer
+86,22,Diploma,IT,JavaScript,TensorFlow,Cybersecurity,Communication,1,Morning,Visual,Govt Job,Cybersecurity Specialist,Cybersecurity Specialist
+87,20,High School,Other,Python,TensorFlow,Data Analysis,Time Management,7,Night,Visual,Research,Product Manager,AI/ML Engineer
+88,21,PhD,ECE,JavaScript,Excel,DevOps,Teamwork,2,Morning,Reading,Startup,Product Manager,Software Developer
+89,25,High School,Commerce,Java,Tableau,Data Analysis,Problem Solving,11,Morning,Hands-on,Govt Job,AI/ML Engineer,Data Analyst
+90,27,High School,ECE,JavaScript,Power BI,Mobile,Leadership,1,Anytime,Mixed,IT,Data Analyst,Software Developer
+91,25,PhD,Other,Java,Power BI,DevOps,Leadership,9,Morning,Visual,Research,DevOps Engineer,DevOps Engineer
+92,19,M.Tech,Mechanical,None,Excel,Cybersecurity,Problem Solving,6,Morning,Mixed,IT,Data Analyst,Cybersecurity Specialist
+93,38,B.Tech,Mechanical,Java,Excel,Web Development,Teamwork,8,Anytime,Hands-on,Govt Job,AI/ML Engineer,Software Developer
+94,27,High School,ECE,Java,None,Data Analysis,Communication,7,Anytime,Reading,IT,Product Manager,DevOps Engineer
+95,38,M.Tech,Other,Java,Power BI,Data Analysis,Leadership,7,Anytime,Hands-on,Startup,Product Manager,Data Analyst
+96,23,B.Tech,ECE,Java,Power BI,AI,Teamwork,9,Morning,Visual,Startup,Cybersecurity Specialist,Data Analyst
+97,39,B.Tech,ECE,Java,Excel,Web Development,Problem Solving,6,Morning,Reading,IT,Data Analyst,Software Developer
+98,36,High School,IT,None,PyTorch,Data Analysis,Communication,11,Night,Visual,Govt Job,Cybersecurity Specialist,Cybersecurity Specialist
+99,38,M.Tech,CS,JavaScript,Tableau,Web Development,Teamwork,3,Morning,Hands-on,Research,Data Analyst,Software Developer
+100,29,B.Tech,CS,Python,None,AI,Leadership,5,Night,Reading,Research,Product Manager,Software Developer
+101,38,High School,CS,Java,Tableau,Mobile,Leadership,3,Anytime,Visual,Research,Data Analyst,Data Analyst
+102,40,Diploma,IT,C++,Excel,Data Analysis,Teamwork,2,Anytime,Hands-on,Startup,Product Manager,Data Analyst
+103,33,Diploma,Other,None,PyTorch,AI,Problem Solving,0,Anytime,Reading,IT,AI/ML Engineer,Cybersecurity Specialist
+104,33,M.Tech,CS,Java,Excel,AI,Time Management,4,Anytime,Reading,Research,Cybersecurity Specialist,DevOps Engineer
+105,25,Diploma,Commerce,Python,Tableau,Data Analysis,Teamwork,1,Morning,Hands-on,Govt Job,Cybersecurity Specialist,Data Analyst
+106,20,PhD,Commerce,JavaScript,Tableau,DevOps,Time Management,0,Anytime,Reading,Research,AI/ML Engineer,Software Developer
+107,39,B.Tech,ECE,Python,PyTorch,DevOps,Problem Solving,9,Night,Hands-on,IT,Product Manager,DevOps Engineer
+108,29,M.Tech,Commerce,Python,Power BI,AI,Teamwork,7,Anytime,Visual,IT,Cybersecurity Specialist,Cybersecurity Specialist
+109,35,Other,ECE,Java,None,Web Development,Teamwork,6,Anytime,Mixed,Govt Job,Cybersecurity Specialist,Software Developer
+110,23,PhD,ECE,C++,None,Mobile,Problem Solving,10,Morning,Mixed,Research,Product Manager,Software Developer
+111,27,PhD,CS,C++,None,Data Analysis,Teamwork,8,Night,Hands-on,Research,Software Developer,Data Analyst
+112,21,PhD,IT,C++,Power BI,Web Development,Leadership,1,Night,Hands-on,Startup,AI/ML Engineer,Software Developer
+113,27,M.Tech,Commerce,None,None,Data Analysis,Communication,4,Morning,Hands-on,Startup,Data Analyst,Cybersecurity Specialist
+114,36,M.Tech,IT,C++,Power BI,Mobile,Problem Solving,1,Anytime,Reading,Research,Data Analyst,DevOps Engineer
+115,24,Diploma,Other,None,Power BI,Web Development,Communication,11,Night,Visual,Research,Cybersecurity Specialist,Software Developer
+116,27,PhD,Mechanical,Java,None,Cybersecurity,Teamwork,2,Morning,Reading,Govt Job,Cybersecurity Specialist,Cybersecurity Specialist
+117,37,High School,CS,Python,Excel,DevOps,Time Management,6,Night,Reading,Govt Job,Product Manager,DevOps Engineer
+118,29,PhD,Other,None,Excel,Cybersecurity,Time Management,1,Night,Hands-on,IT,Data Analyst,Cybersecurity Specialist
+119,24,Diploma,IT,Java,Power BI,Data Analysis,Problem Solving,2,Night,Mixed,IT,Software Developer,Data Analyst
+120,35,Other,ECE,Java,None,Web Development,Communication,8,Anytime,Visual,Research,AI/ML Engineer,Software Developer
+121,22,High School,Commerce,C++,Power BI,Data Analysis,Communication,2,Night,Visual,IT,Product Manager,Data Analyst
+122,32,B.Tech,CS,Java,Excel,Mobile,Time Management,8,Night,Mixed,IT,Product Manager,AI/ML Engineer
+123,22,Other,CS,None,Power BI,DevOps,Teamwork,10,Night,Reading,IT,AI/ML Engineer,DevOps Engineer
+124,23,PhD,Mechanical,C++,TensorFlow,Data Analysis,Leadership,8,Morning,Hands-on,Govt Job,Data Analyst,DevOps Engineer
+125,27,High School,CS,JavaScript,Excel,Mobile,Time Management,8,Anytime,Mixed,Govt Job,DevOps Engineer,Software Developer
+126,32,High School,Mechanical,Python,Tableau,Cybersecurity,Teamwork,3,Night,Reading,Research,DevOps Engineer,Cybersecurity Specialist
+127,21,M.Tech,Other,Python,Excel,Cybersecurity,Problem Solving,8,Night,Hands-on,Research,DevOps Engineer,Cybersecurity Specialist
+128,35,M.Tech,IT,C++,None,Cybersecurity,Leadership,6,Night,Hands-on,Research,Cybersecurity Specialist,Cybersecurity Specialist
+129,26,Other,Mechanical,C++,Excel,AI,Teamwork,5,Morning,Mixed,Govt Job,Cybersecurity Specialist,DevOps Engineer
+130,32,M.Tech,CS,None,PyTorch,AI,Teamwork,7,Morning,Hands-on,Govt Job,Product Manager,Software Developer
+131,32,M.Tech,CS,None,Tableau,Data Analysis,Teamwork,11,Night,Reading,IT,Data Analyst,Data Analyst
+132,33,B.Tech,Mechanical,Java,Excel,Mobile,Communication,6,Night,Mixed,Research,DevOps Engineer,AI/ML Engineer
+133,26,High School,CS,Java,Power BI,DevOps,Leadership,7,Morning,Visual,Govt Job,Product Manager,DevOps Engineer
+134,40,M.Tech,IT,None,Power BI,Cybersecurity,Leadership,11,Morning,Mixed,Research,Data Analyst,Cybersecurity Specialist
+135,32,PhD,ECE,JavaScript,Excel,Mobile,Leadership,7,Anytime,Reading,Startup,Data Analyst,Software Developer
+136,38,Other,ECE,None,None,Data Analysis,Communication,8,Night,Visual,Research,Software Developer,Data Analyst
+137,31,Other,Mechanical,Java,Excel,Web Development,Communication,5,Night,Visual,IT,Product Manager,Software Developer
+138,28,High School,CS,None,PyTorch,Data Analysis,Time Management,3,Anytime,Reading,Research,Software Developer,Cybersecurity Specialist
+139,19,M.Tech,CS,Java,TensorFlow,DevOps,Leadership,2,Anytime,Mixed,IT,Cybersecurity Specialist,DevOps Engineer
+140,37,Diploma,Commerce,JavaScript,None,Mobile,Time Management,0,Night,Hands-on,Govt Job,Data Analyst,Software Developer
+141,33,B.Tech,Mechanical,JavaScript,Tableau,Mobile,Leadership,7,Anytime,Reading,Startup,Data Analyst,Software Developer
+142,25,B.Tech,CS,Python,PyTorch,AI,Teamwork,8,Morning,Visual,Startup,Data Analyst,AI/ML Engineer
+143,26,B.Tech,CS,JavaScript,Excel,AI,Time Management,4,Morning,Visual,Govt Job,Cybersecurity Specialist,Software Developer
+144,40,Other,ECE,C++,Power BI,AI,Problem Solving,9,Morning,Hands-on,Research,AI/ML Engineer,DevOps Engineer
+145,34,Other,Other,C++,PyTorch,AI,Leadership,9,Anytime,Hands-on,IT,DevOps Engineer,Software Developer
+146,19,M.Tech,IT,Java,Excel,DevOps,Time Management,6,Morning,Mixed,Startup,AI/ML Engineer,DevOps Engineer
+147,33,High School,ECE,Java,None,DevOps,Communication,5,Anytime,Reading,IT,Cybersecurity Specialist,DevOps Engineer
+148,22,Other,ECE,JavaScript,Tableau,Cybersecurity,Time Management,7,Morning,Hands-on,IT,AI/ML Engineer,Cybersecurity Specialist
+149,18,B.Tech,Mechanical,C++,Power BI,Cybersecurity,Teamwork,11,Morning,Reading,Govt Job,Cybersecurity Specialist,Cybersecurity Specialist
+150,40,M.Tech,Commerce,None,Power BI,Cybersecurity,Leadership,4,Night,Reading,Startup,Cybersecurity Specialist,Cybersecurity Specialist
+151,30,B.Tech,Mechanical,C++,Power BI,Data Analysis,Problem Solving,4,Anytime,Hands-on,IT,Data Analyst,Data Analyst
+152,24,Other,Commerce,JavaScript,TensorFlow,Cybersecurity,Leadership,0,Morning,Reading,Research,Software Developer,Cybersecurity Specialist
+153,18,PhD,Mechanical,None,TensorFlow,Data Analysis,Time Management,8,Night,Mixed,IT,DevOps Engineer,Cybersecurity Specialist
+154,37,B.Tech,ECE,None,None,Cybersecurity,Leadership,7,Morning,Visual,IT,Software Developer,Cybersecurity Specialist
+155,34,High School,IT,C++,Tableau,AI,Problem Solving,11,Anytime,Mixed,Startup,Cybersecurity Specialist,Software Developer
+156,37,B.Tech,ECE,JavaScript,TensorFlow,DevOps,Communication,5,Anytime,Hands-on,IT,Cybersecurity Specialist,Software Developer
+157,32,Other,Mechanical,Python,TensorFlow,DevOps,Time Management,5,Anytime,Reading,Research,DevOps Engineer,DevOps Engineer
+158,40,B.Tech,Commerce,Java,Tableau,Data Analysis,Problem Solving,1,Night,Mixed,Startup,Data Analyst,Data Analyst
+159,39,Other,Mechanical,Python,PyTorch,Mobile,Communication,7,Night,Mixed,Research,Software Developer,DevOps Engineer
+160,39,Other,Mechanical,None,Power BI,Data Analysis,Leadership,11,Anytime,Reading,IT,DevOps Engineer,Data Analyst
+161,35,PhD,IT,JavaScript,PyTorch,AI,Communication,4,Night,Visual,IT,Data Analyst,Software Developer
+162,25,M.Tech,Commerce,Python,Excel,Web Development,Problem Solving,12,Anytime,Mixed,Startup,Data Analyst,Software Developer
+163,29,PhD,Other,C++,Excel,AI,Leadership,1,Morning,Hands-on,Startup,Product Manager,Cybersecurity Specialist
+164,21,High School,Mechanical,C++,None,AI,Teamwork,10,Night,Hands-on,Startup,DevOps Engineer,DevOps Engineer
+165,36,Diploma,IT,Python,None,Web Development,Time Management,11,Morning,Reading,Research,Software Developer,Software Developer
+166,29,M.Tech,Mechanical,Java,Tableau,Mobile,Teamwork,12,Morning,Reading,Startup,Data Analyst,Data Analyst
+167,39,Diploma,Other,None,TensorFlow,Web Development,Leadership,1,Night,Hands-on,Startup,Cybersecurity Specialist,Software Developer
+168,31,Other,Commerce,Python,Tableau,AI,Leadership,4,Anytime,Mixed,Startup,DevOps Engineer,Cybersecurity Specialist
+169,35,B.Tech,ECE,C++,PyTorch,AI,Problem Solving,0,Night,Visual,Research,DevOps Engineer,DevOps Engineer
+170,38,Other,ECE,None,Excel,DevOps,Problem Solving,7,Night,Visual,Startup,AI/ML Engineer,DevOps Engineer
+171,31,Diploma,Other,Python,TensorFlow,AI,Teamwork,0,Night,Hands-on,Startup,Cybersecurity Specialist,AI/ML Engineer
+172,40,B.Tech,ECE,Java,Power BI,Cybersecurity,Leadership,0,Night,Hands-on,Research,Product Manager,Cybersecurity Specialist
+173,29,Diploma,Other,None,PyTorch,Data Analysis,Problem Solving,4,Anytime,Hands-on,Startup,AI/ML Engineer,Cybersecurity Specialist
+174,35,B.Tech,Other,Python,Excel,Cybersecurity,Teamwork,8,Morning,Reading,Startup,Data Analyst,Cybersecurity Specialist
+175,19,High School,ECE,C++,PyTorch,AI,Time Management,8,Anytime,Visual,Startup,Data Analyst,Software Developer
+176,19,B.Tech,Commerce,Java,Power BI,Data Analysis,Time Management,9,Anytime,Mixed,Govt Job,Product Manager,Data Analyst
+177,27,High School,ECE,JavaScript,Excel,Data Analysis,Problem Solving,11,Morning,Visual,IT,Cybersecurity Specialist,Software Developer
+178,26,M.Tech,IT,JavaScript,None,DevOps,Communication,11,Anytime,Visual,Govt Job,DevOps Engineer,Software Developer
+179,36,PhD,IT,C++,Tableau,DevOps,Leadership,10,Night,Visual,Startup,Software Developer,DevOps Engineer
+180,32,B.Tech,ECE,JavaScript,TensorFlow,Mobile,Teamwork,12,Anytime,Mixed,Research,Product Manager,Software Developer
+181,37,M.Tech,Commerce,Python,Tableau,AI,Teamwork,0,Morning,Reading,Govt Job,Software Developer,Data Analyst
+182,21,Diploma,Other,Java,None,Mobile,Teamwork,5,Morning,Hands-on,Startup,AI/ML Engineer,AI/ML Engineer
+183,40,B.Tech,Commerce,Python,PyTorch,Mobile,Teamwork,5,Night,Mixed,Govt Job,Cybersecurity Specialist,Cybersecurity Specialist
+184,40,B.Tech,ECE,JavaScript,Power BI,AI,Leadership,5,Morning,Visual,Startup,Software Developer,Software Developer
+185,22,High School,Other,JavaScript,PyTorch,AI,Problem Solving,2,Anytime,Hands-on,Startup,Data Analyst,Software Developer
+186,34,High School,Commerce,None,Tableau,AI,Teamwork,4,Night,Mixed,Research,AI/ML Engineer,Data Analyst
+187,39,Diploma,ECE,None,Excel,Web Development,Teamwork,3,Morning,Reading,Startup,Product Manager,Software Developer
+188,37,PhD,ECE,Python,Tableau,AI,Time Management,2,Morning,Visual,Govt Job,AI/ML Engineer,Cybersecurity Specialist
+189,40,High School,IT,Python,None,AI,Teamwork,0,Night,Visual,Startup,Software Developer,DevOps Engineer
+190,30,M.Tech,ECE,None,TensorFlow,DevOps,Problem Solving,10,Night,Hands-on,Govt Job,Product Manager,DevOps Engineer
+191,31,Other,CS,Python,None,DevOps,Teamwork,3,Morning,Hands-on,IT,Product Manager,DevOps Engineer
+192,21,B.Tech,Commerce,Python,Excel,Mobile,Problem Solving,0,Morning,Mixed,Startup,Data Analyst,AI/ML Engineer
+193,28,Diploma,ECE,None,Excel,Data Analysis,Time Management,7,Morning,Hands-on,Research,Data Analyst,Data Analyst
+194,25,PhD,Other,C++,Excel,Data Analysis,Leadership,0,Morning,Mixed,Research,Cybersecurity Specialist,Data Analyst
+195,21,Other,IT,Java,Power BI,Web Development,Teamwork,0,Night,Reading,Govt Job,Product Manager,Software Developer
+196,23,High School,Other,None,None,Mobile,Time Management,2,Night,Mixed,Govt Job,Software Developer,Data Analyst
+197,22,Diploma,Mechanical,JavaScript,Excel,Mobile,Problem Solving,1,Anytime,Visual,Startup,Cybersecurity Specialist,Software Developer
+198,30,High School,ECE,Java,Tableau,Data Analysis,Problem Solving,7,Anytime,Mixed,Govt Job,AI/ML Engineer,Data Analyst
+199,20,High School,IT,None,Excel,Data Analysis,Time Management,1,Morning,Mixed,Startup,Data Analyst,Data Analyst
+200,23,High School,Other,JavaScript,Excel,DevOps,Time Management,4,Night,Mixed,IT,Software Developer,Software Developer
